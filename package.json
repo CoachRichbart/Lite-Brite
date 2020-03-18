@@ -2,7 +2,7 @@
     "name": "lite-brite",
     "displayName": "Lite-Brite",
     "description": "Turn on the magic of colored lights.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "CoachRichbart",
     "repository": { "type":"git", "url":"https://github.com/CoachRichbart/lite-brite.git"},
     "engines": {
